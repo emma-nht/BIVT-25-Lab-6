@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\BIVT-25-Lab-6\\Lab6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A7D3CF2-F01B-EE3F-B407-2F27A8D69D0E}|..\\Lab6test\\Lab6test.csproj|c:\\bivt-25-lab-6\\lab6test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7D3CF2-F01B-EE3F-B407-2F27A8D69D0E}|..\\Lab6test\\Lab6test.csproj|c:\\bivt-25-lab-6\\lab6test\\purpletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7D3CF2-F01B-EE3F-B407-2F27A8D69D0E}|..\\Lab6test\\Lab6test.csproj|c:\\bivt-25-lab-6\\lab6test\\greentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7D3CF2-F01B-EE3F-B407-2F27A8D69D0E}|..\\Lab6test\\Lab6test.csproj|c:\\bivt-25-lab-6\\lab6test\\bluetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A55E9E7D-F829-8764-014B-9CDE371B79A4}|Lab6.csproj|c:\\bivt-25-lab-6\\lab6\\purple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A55E9E7D-F829-8764-014B-9CDE371B79A4}|Lab6.csproj|solutionrelative:purple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\BIVT-25-Lab-6\\Lab6test\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\Lab6test\\MSTestSettings.cs",
+              "ToolTip": "C:\\BIVT-25-Lab-6\\Lab6test\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\Lab6test\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:39:25.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurpleTest.cs",
+              "DocumentMoniker": "C:\\BIVT-25-Lab-6\\Lab6test\\PurpleTest.cs",
+              "RelativeDocumentMoniker": "..\\Lab6test\\PurpleTest.cs",
+              "ToolTip": "C:\\BIVT-25-Lab-6\\Lab6test\\PurpleTest.cs",
+              "RelativeToolTip": "..\\Lab6test\\PurpleTest.cs",
+              "ViewState": "AgIAAMMHAAAAAAAAAAAAwOAHAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:38:33.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreenTest.cs",
+              "DocumentMoniker": "C:\\BIVT-25-Lab-6\\Lab6test\\GreenTest.cs",
+              "RelativeDocumentMoniker": "..\\Lab6test\\GreenTest.cs",
+              "ToolTip": "C:\\BIVT-25-Lab-6\\Lab6test\\GreenTest.cs",
+              "RelativeToolTip": "..\\Lab6test\\GreenTest.cs",
+              "ViewState": "AgIAAOcDAAAAAAAAAAAAAAMEAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:38:20.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlueTest.cs",
+              "DocumentMoniker": "C:\\BIVT-25-Lab-6\\Lab6test\\BlueTest.cs",
+              "RelativeDocumentMoniker": "..\\Lab6test\\BlueTest.cs",
+              "ToolTip": "C:\\BIVT-25-Lab-6\\Lab6test\\BlueTest.cs",
+              "RelativeToolTip": "..\\Lab6test\\BlueTest.cs",
+              "ViewState": "AgIAAJAEAAAAAAAAAAAiwK4EAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:38:05.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Purple.cs",
               "DocumentMoniker": "C:\\BIVT-25-Lab-6\\Lab6\\Purple.cs",
               "RelativeDocumentMoniker": "Purple.cs",
@@ -47,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\BIVT-25-Lab-6\\Lab6\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -55,12 +119,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T22:49:15.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T22:49:15.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Green.cs",
               "DocumentMoniker": "C:\\BIVT-25-Lab-6\\Lab6\\Green.cs",
               "RelativeDocumentMoniker": "Green.cs",
@@ -68,12 +131,11 @@
               "RelativeToolTip": "Green.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAiwGAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T22:49:14.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T22:49:14.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Blue.cs",
               "DocumentMoniker": "C:\\BIVT-25-Lab-6\\Lab6\\Blue.cs",
               "RelativeDocumentMoniker": "Blue.cs",
@@ -81,12 +143,11 @@
               "RelativeToolTip": "Blue.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAmwFsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T22:49:11.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T22:49:11.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "White.cs",
               "DocumentMoniker": "C:\\BIVT-25-Lab-6\\Lab6\\White.cs",
               "RelativeDocumentMoniker": "White.cs",
